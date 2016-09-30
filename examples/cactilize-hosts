@@ -10,10 +10,7 @@ spybdd1
 
 ## Look up examples/host_vars and examples/group_vars for more info
 [webs]
-spyweb[1:5]
-
-[caches]
-spycache[1:2]
+ACTEMIUM-WEB[1:2]
 
 [databases]
 spybdd1

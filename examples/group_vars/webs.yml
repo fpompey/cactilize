@@ -5,7 +5,7 @@ nginx_server: true
 
 Hosts:
   '':
-    #IP   : 172.20.20.10
+    #IP   : 10.252.111.234
     graph:
       - system
       - apache
